@@ -8,7 +8,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr ng-repeat="hack in domainhacks" ng-animate="'wave'">
+            <tr ng-repeat="hack in domainhacks" data-ng-animate="'wave'">
                 <td>{{ $index }}</td>
                 <td><span class="blue">{{ hack.name }}</span><span class="pink">.{{ hack.tld }}</span><span class="green">/{{ hack.suffix }}</span></td>
                 <td>{{ hack.country }}</td>
