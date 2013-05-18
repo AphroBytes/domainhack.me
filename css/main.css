@@ -154,7 +154,7 @@ input[type="text"] {
 }
 
 .domain {
-    text-shadow: 1px 1px 0px #000;
+    text-shadow: 1px 1px 0 #000;
 }
 
 .pink{color:#ff007f}
