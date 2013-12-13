@@ -100,6 +100,7 @@ body{
     color:#75715e;
     font-family: 'Droid Sans Mono', sans-serif;
     background:#272822;
+    font-size: 16px;
 }
 
 h1 {
@@ -109,6 +110,7 @@ h1 {
     padding-top: 60px;
     text-align: center;
     font-size: 2em;
+    font-family: 'Droid Sans Mono', sans-serif;
 }
 
 h2 {
@@ -117,6 +119,12 @@ h2 {
     text-align: center;
     font-size: 1.5em;
     padding-bottom: 30px;
+    font-family: 'Droid Sans Mono', sans-serif;
+}
+
+h3 {
+    font-family: 'Droid Sans Mono', sans-serif;
+    font-weight: 700;
 }
 
 h3:before{
@@ -149,7 +157,7 @@ input[type="text"] {
     color:#a7ec21;
 }
 
-.table th, .table td {
+.table > thead > tr > th, .table > tbody > tr > td {
     border: none;
 }
 
