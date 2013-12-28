@@ -26,11 +26,8 @@
         <meta property="og:image" content="img/logo.png" />
         <link rel="author" href="https://plus.google.com/115369062315673853712/posts" />
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono' rel='stylesheet' type='text/css'>
     </head>
     <body>
@@ -39,32 +36,39 @@
         <![endif]-->
 
         <div class="container">
-            <div class="row-fluid">
-                <div class="span12">
+            <div class="row">
+                <div class="col-md-12">
                     <h1>DomainHack.Me</h1>
                     <h2>The World's finest Domain-Hacking Tool</h2>
-                    <input type="text" class="input-xxlarge" placeholder="e.g. testinput" ng-model="search">
+                    <div class="col-md-6 col-md-offset-3">
+                        <input type="text" class="form-control" placeholder="e.g. testinput" ng-model="search">
+                    </div>
                 </div>
             </div>
 
-            <div class="row-fluid" ng-view="view"></div>
+            <div class="row" ng-view="view"></div>
 
-            <div class="row-fluid">
-                <div class="span4">
+            <div class="row">
+                <div class="col-md-4">
                     <h3>Domain-Hack, WTF?!</h3>
                     <p>A <a href="http://en.wikipedia.org/wiki/Domain_hack" title="Domain Hacks, Wikipedia">domainhack</a> is an unconventional domain name that combines domain levels, especially the Top-Level Domain (TLD), to spell out the full "name" or title of the domain. Domainhacks offer the ability to produce extremely short domain names.  </p>
                 </div>
-                <div class="span4">
+                <div class="col-md-4">
                     <h3>Domain-Hack Examples</h3>
                     <p>This makes them potentially valuable as redirectors, pastebins, base domains from which to delegate subdomains and URL shortening services. Popular examples are blo.gs, del.icio.us, instagr.am, dub.ai, canv.as.</p>
                 </div>
-                <div class="span4">
+                <div class="col-md-4">
                     <h3>The Creator</h3>
                     <p>Domainhack.me is based on Google's <span class="pink">AngularJS</span> and was created by <a href="http://jan.brennenstuhl.me/" title="Jan Brennenstuhl - Software Engineer, Web Developer and Open Data Activist">Jan Brennenstuhl</a> (<a href="https://twitter.com/jbspeakr"><span class="green">@jbspeakr</span></a>), software engineer, web developer and open data activist from Berlin.</p>
                 </div>
             </div>
         </div>
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.4/angular.min.js"></script>
-        <script src="js/main.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular-route.min.js"></script>
+        
+        <script src="js/app.js"></script>
+        <script src="js/controllers/main.js"></script>
+        <script src="js/factories/data-provider.js"></script>
+        <script src="js/factories/domainhack-builder.js"></script>
     </body>
 </html>
