@@ -1,6 +1,8 @@
 domainhack.me
 =============
 
+![Codacy Status](https://www.codacy.com/project/badge/163adcc9675a4b9b39bd3abb156795f5)
+
 DomainHack.me, The World's finest Domain-Hacking Tool.
 
 A domainhack is an unconventional domain name that combines domain levels, especially the Top-Level Domain (TLD), to spell out the full "name" or title of the domain. Domainhacks offer the ability to produce extremely short domain names.
