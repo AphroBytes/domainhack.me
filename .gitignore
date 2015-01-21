@@ -6,3 +6,6 @@
 *.mo
 dist/
 django_db
+
+.idea/
+*.iml
