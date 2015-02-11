@@ -1,6 +1,6 @@
 # Domainhack.me
 
-![Codacy Status](https://www.codacy.com/project/badge/163adcc9675a4b9b39bd3abb156795f5)
+[![Codacy Badge](https://www.codacy.com/project/badge/163adcc9675a4b9b39bd3abb156795f5)](https://www.codacy.com/public/jbspeakr/domainhack.me.git)
 
 **[DomainHack.me](http://www.domainhack.me), The World's finest Domain-Hacking Tool.**
 
