@@ -1,1086 +1,4906 @@
 [
-    {
-        "country": "Air transport",
-        "tld": "aero"
-    },
-    {
-        "country": "Organisations and individuals in the Asia-Pacific region",
-        "tld": "asia"
-    },
-    {
-        "country": "Business",
-        "tld": "biz"
-    },
-    {
-        "country": "Catalan",
-        "tld": "cat"
-    },
-    {
-        "country": "Commercial organizations",
-        "tld": "com"
-    },
-    {
-        "country": "Cooperatives",
-        "tld": "coop"
-    },
-    {
-        "country": "Educational establishments",
-        "tld": "edu"
-    },
-    {
-        "country": "US government",
-        "tld": "gov"
-    },
-    {
-        "country": "Informational sites",
-        "tld": "info"
-    },
-    {
-        "country": "international organizations",
-        "tld": "int"
-    },
-    {
-        "country": "Employment-related sites",
-        "tld": "jobs"
-    },
-    {
-        "country": "US military",
-        "tld": "mil"
-    },
-    {
-        "country": "Mobile",
-        "tld": "mobi"
-    },
-    {
-        "country": "Museums",
-        "tld": "museum"
-    },
-    {
-        "country": "Families and individuals",
-        "tld": "name"
-    },
-    {
-        "country": "Network",
-        "tld": "net"
-    },
-    {
-        "country": "Non-profit organizations",
-        "tld": "org"
-    },
-    {
-        "country": "Profession",
-        "tld": "pro"
-    },
-    {
-        "country": "Telephone",
-        "tld": "tel"
-    },
-    {
-        "country": "Travel",
-        "tld": "travel"
-    },
-    {
-        "country": "Ascension Island",
-        "tld": "ac"
-    },
-    {
-        "country": "Andorra",
-        "tld": "ad"
-    },
-    {
-        "country": "United Arab Emirates",
-        "tld": "ae"
-    },
-    {
-        "country": "Afghanistan",
-        "tld": "af"
-    },
-    {
-        "country": "Antigua and Barbuda",
-        "tld": "ag"
-    },
-    {
-        "country": "Anguilla",
-        "tld": "ai"
-    },
-    {
-        "country": "Albania",
-        "tld": "al"
-    },
-    {
-        "country": "Armenia",
-        "tld": "am"
-    },
-    {
-        "country": "Netherlands Antilles",
-        "tld": "an"
-    },
-    {
-        "country": "Angola",
-        "tld": "ao"
-    },
-    {
-        "country": "Antarctica",
-        "tld": "aq"
-    },
-    {
-        "country": "Argentina",
-        "tld": "ar"
-    },
-    {
-        "country": "American Samoa",
-        "tld": "as"
-    },
-    {
-        "country": "Austria",
-        "tld": "at"
-    },
-    {
-        "country": "Australia",
-        "tld": "au"
-    },
-    {
-        "country": "Aruba",
-        "tld": "aw"
-    },
-    {
-        "country": "\u00c5land Islands",
-        "tld": "ax"
-    },
-    {
-        "country": "Azerbaijan",
-        "tld": "az"
-    },
-    {
-        "country": "Bosnia and Herzegovina",
-        "tld": "ba"
-    },
-    {
-        "country": "Barbados",
-        "tld": "bb"
-    },
-    {
-        "country": "Bangladesh",
-        "tld": "bd"
-    },
-    {
-        "country": "Belgium",
-        "tld": "be"
-    },
-    {
-        "country": "Burkina Faso",
-        "tld": "bf"
-    },
-    {
-        "country": "Bulgaria",
-        "tld": "bg"
-    },
-    {
-        "country": "Bahrain",
-        "tld": "bh"
-    },
-    {
-        "country": "Burundi",
-        "tld": "bi"
-    },
-    {
-        "country": "Benin",
-        "tld": "bj"
-    },
-    {
-        "country": "Saint Barth\u00e9lemy",
-        "tld": "bl"
-    },
-    {
-        "country": "Bermuda",
-        "tld": "bm"
-    },
-    {
-        "country": "Brunei",
-        "tld": "bn"
-    },
-    {
-        "country": "Bolivia",
-        "tld": "bo"
-    },
-    {
-        "country": "Brazil",
-        "tld": "br"
-    },
-    {
-        "country": "Bahamas",
-        "tld": "bs"
-    },
-    {
-        "country": "Bhutan",
-        "tld": "bt"
-    },
-    {
-        "country": "Bouvet Island",
-        "tld": "bv"
-    },
-    {
-        "country": "Botswana",
-        "tld": "bw"
-    },
-    {
-        "country": "Belarus",
-        "tld": "by"
-    },
-    {
-        "country": "Belize",
-        "tld": "bz"
-    },
-    {
-        "country": "Canada",
-        "tld": "ca"
-    },
-    {
-        "country": "Cocos (Keeling) Islands",
-        "tld": "cc"
-    },
-    {
-        "country": "Democratic Republic of the Congo",
-        "tld": "cd"
-    },
-    {
-        "country": "Central African Republic",
-        "tld": "cf"
-    },
-    {
-        "country": "Republic of the Congo",
-        "tld": "cg"
-    },
-    {
-        "country": "Switzerland",
-        "tld": "ch"
-    },
-    {
-        "country": "C\u00f4te d'Ivoire",
-        "tld": "ci"
-    },
-    {
-        "country": "Cook Islands",
-        "tld": "ck"
-    },
-    {
-        "country": "Chile",
-        "tld": "cl"
-    },
-    {
-        "country": "Cameroon",
-        "tld": "cm"
-    },
-    {
-        "country": "People's Republic of China",
-        "tld": "cn"
-    },
-    {
-        "country": "Colombia",
-        "tld": "co"
-    },
-    {
-        "country": "Costa Rica",
-        "tld": "cr"
-    },
-    {
-        "country": "Cuba",
-        "tld": "cu"
-    },
-    {
-        "country": "Cape Verde",
-        "tld": "cv"
-    },
-    {
-        "country": "Christmas Island",
-        "tld": "cx"
-    },
-    {
-        "country": "Cyprus",
-        "tld": "cy"
-    },
-    {
-        "country": "Czech Republic",
-        "tld": "cz"
-    },
-    {
-        "country": "Germany",
-        "tld": "de"
-    },
-    {
-        "country": "Djibouti",
-        "tld": "dj"
-    },
-    {
-        "country": "Denmark",
-        "tld": "dk"
-    },
-    {
-        "country": "Dominica",
-        "tld": "dm"
-    },
-    {
-        "country": "Dominican Republic",
-        "tld": "do"
-    },
-    {
-        "country": "Algeria",
-        "tld": "dz"
-    },
-    {
-        "country": "Ecuador",
-        "tld": "ec"
-    },
-    {
-        "country": "Estonia",
-        "tld": "ee"
-    },
-    {
-        "country": "Egypt",
-        "tld": "eg"
-    },
-    {
-        "country": "Western Sahara",
-        "tld": "eh"
-    },
-    {
-        "country": "Eritrea",
-        "tld": "er"
-    },
-    {
-        "country": "Spain",
-        "tld": "es"
-    },
-    {
-        "country": "Ethiopia",
-        "tld": "et"
-    },
-    {
-        "country": "European Union",
-        "tld": "eu"
-    },
-    {
-        "country": "Finland",
-        "tld": "fi"
-    },
-    {
-        "country": "Fiji",
-        "tld": "fj"
-    },
-    {
-        "country": "Falkland Islands",
-        "tld": "fk"
-    },
-    {
-        "country": "Federated States of Micronesia",
-        "tld": "fm"
-    },
-    {
-        "country": "Faroe Islands",
-        "tld": "fo"
-    },
-    {
-        "country": "France",
-        "tld": "fr"
-    },
-    {
-        "country": "Gabon",
-        "tld": "ga"
-    },
-    {
-        "country": "United Kingdom",
-        "tld": "gb"
-    },
-    {
-        "country": "Grenada",
-        "tld": "gd"
-    },
-    {
-        "country": "Georgia",
-        "tld": "ge"
-    },
-    {
-        "country": "French Guiana",
-        "tld": "gf"
-    },
-    {
-        "country": "Guernsey",
-        "tld": "gg"
-    },
-    {
-        "country": "Ghana",
-        "tld": "gh"
-    },
-    {
-        "country": "Gibraltar",
-        "tld": "gi"
-    },
-    {
-        "country": "Greenland",
-        "tld": "gl"
-    },
-    {
-        "country": "Gambia",
-        "tld": "gm"
-    },
-    {
-        "country": "Guinea",
-        "tld": "gn"
-    },
-    {
-        "country": "Guadeloupe",
-        "tld": "gp"
-    },
-    {
-        "country": "Equatorial Guinea",
-        "tld": "gq"
-    },
-    {
-        "country": "Greece",
-        "tld": "gr"
-    },
-    {
-        "country": "South Georgia and the South Sandwich Islands",
-        "tld": "gs"
-    },
-    {
-        "country": "Guatemala",
-        "tld": "gt"
-    },
-    {
-        "country": "Guam",
-        "tld": "gu"
-    },
-    {
-        "country": "Guinea-Bissau",
-        "tld": "gw"
-    },
-    {
-        "country": "Guyana",
-        "tld": "gy"
-    },
-    {
-        "country": "Hong Kong",
-        "tld": "hk"
-    },
-    {
-        "country": "Heard Island and McDonald Islands",
-        "tld": "hm"
-    },
-    {
-        "country": "Honduras",
-        "tld": "hn"
-    },
-    {
-        "country": "Croatia",
-        "tld": "hr"
-    },
-    {
-        "country": "Haiti",
-        "tld": "ht"
-    },
-    {
-        "country": "Hungary",
-        "tld": "hu"
-    },
-    {
-        "country": "Indonesia",
-        "tld": "id"
-    },
-    {
-        "country": "Ireland",
-        "tld": "ie"
-    },
-    {
-        "country": "Israel",
-        "tld": "il"
-    },
-    {
-        "country": "Isle of Man",
-        "tld": "im"
-    },
-    {
-        "country": "India",
-        "tld": "in"
-    },
-    {
-        "country": "British Indian Ocean Territory",
-        "tld": "io"
-    },
-    {
-        "country": "Iraq",
-        "tld": "iq"
-    },
-    {
-        "country": "Iran",
-        "tld": "ir"
-    },
-    {
-        "country": "Iceland",
-        "tld": "is"
-    },
-    {
-        "country": "Italy",
-        "tld": "it"
-    },
-    {
-        "country": "Jersey",
-        "tld": "je"
-    },
-    {
-        "country": "Jamaica",
-        "tld": "jm"
-    },
-    {
-        "country": "Jordan",
-        "tld": "jo"
-    },
-    {
-        "country": "Japan",
-        "tld": "jp"
-    },
-    {
-        "country": "Kenya",
-        "tld": "ke"
-    },
-    {
-        "country": "Kyrgyzstan",
-        "tld": "kg"
-    },
-    {
-        "country": "Cambodia",
-        "tld": "kh"
-    },
-    {
-        "country": "Kiribati",
-        "tld": "ki"
-    },
-    {
-        "country": "Comoros",
-        "tld": "km"
-    },
-    {
-        "country": "Saint Kitts and Nevis",
-        "tld": "kn"
-    },
-    {
-        "country": "North Korea",
-        "tld": "kp"
-    },
-    {
-        "country": "South Korea",
-        "tld": "kr"
-    },
-    {
-        "country": "Kuwait",
-        "tld": "kw"
-    },
-    {
-        "country": "Cayman Islands",
-        "tld": "ky"
-    },
-    {
-        "country": "Kazakhstan",
-        "tld": "kz"
-    },
-    {
-        "country": "Laos",
-        "tld": "la"
-    },
-    {
-        "country": "Lebanon",
-        "tld": "lb"
-    },
-    {
-        "country": "Saint Lucia",
-        "tld": "lc"
-    },
-    {
-        "country": "Liechtenstein",
-        "tld": "li"
-    },
-    {
-        "country": "Sri Lanka",
-        "tld": "lk"
-    },
-    {
-        "country": "Liberia",
-        "tld": "lr"
-    },
-    {
-        "country": "Lesotho",
-        "tld": "ls"
-    },
-    {
-        "country": "Lithuania",
-        "tld": "lt"
-    },
-    {
-        "country": "Luxembourg",
-        "tld": "lu"
-    },
-    {
-        "country": "Latvia",
-        "tld": "lv"
-    },
-    {
-        "country": "Libya",
-        "tld": "ly"
-    },
-    {
-        "country": "Morocco",
-        "tld": "ma"
-    },
-    {
-        "country": "Monaco",
-        "tld": "mc"
-    },
-    {
-        "country": "Moldova",
-        "tld": "md"
-    },
-    {
-        "country": "Montenegro",
-        "tld": "me"
-    },
-    {
-        "country": "Madagascar",
-        "tld": "mg"
-    },
-    {
-        "country": "Marshall Islands",
-        "tld": "mh"
-    },
-    {
-        "country": "Republic of Macedonia",
-        "tld": "mk"
-    },
-    {
-        "country": "Mali",
-        "tld": "ml"
-    },
-    {
-        "country": "Myanmar",
-        "tld": "mm"
-    },
-    {
-        "country": "Mongolia",
-        "tld": "mn"
-    },
-    {
-        "country": "Macau",
-        "tld": "mo"
-    },
-    {
-        "country": "Northern Mariana Islands",
-        "tld": "mp"
-    },
-    {
-        "country": "Martinique",
-        "tld": "mq"
-    },
-    {
-        "country": "Mauritania",
-        "tld": "mr"
-    },
-    {
-        "country": "Montserrat",
-        "tld": "ms"
-    },
-    {
-        "country": "Malta",
-        "tld": "mt"
-    },
-    {
-        "country": "Mauritius",
-        "tld": "mu"
-    },
-    {
-        "country": "Maldives",
-        "tld": "mv"
-    },
-    {
-        "country": "Malawi",
-        "tld": "mw"
-    },
-    {
-        "country": "Mexico",
-        "tld": "mx"
-    },
-    {
-        "country": "Malaysia",
-        "tld": "my"
-    },
-    {
-        "country": "Mozambique",
-        "tld": "mz"
-    },
-    {
-        "country": "Namibia",
-        "tld": "na"
-    },
-    {
-        "country": "New Caledonia",
-        "tld": "nc"
-    },
-    {
-        "country": "Niger",
-        "tld": "ne"
-    },
-    {
-        "country": "Norfolk Island",
-        "tld": "nf"
-    },
-    {
-        "country": "Nigeria",
-        "tld": "ng"
-    },
-    {
-        "country": "Nicaragua",
-        "tld": "ni"
-    },
-    {
-        "country": "Netherlands",
-        "tld": "nl"
-    },
-    {
-        "country": "Norway",
-        "tld": "no"
-    },
-    {
-        "country": "Nepal",
-        "tld": "np"
-    },
-    {
-        "country": "Nauru",
-        "tld": "nr"
-    },
-    {
-        "country": "Niue",
-        "tld": "nu"
-    },
-    {
-        "country": "New Zealand",
-        "tld": "nz"
-    },
-    {
-        "country": "Oman",
-        "tld": "om"
-    },
-    {
-        "country": "Panama",
-        "tld": "pa"
-    },
-    {
-        "country": "Peru",
-        "tld": "pe"
-    },
-    {
-        "country": "French Polynesia",
-        "tld": "pf"
-    },
-    {
-        "country": "Papua New Guinea",
-        "tld": "pg"
-    },
-    {
-        "country": "Philippines",
-        "tld": "ph"
-    },
-    {
-        "country": "Pakistan",
-        "tld": "pk"
-    },
-    {
-        "country": "Poland",
-        "tld": "pl"
-    },
-    {
-        "country": "Saint Pierre and Miquelon",
-        "tld": "pm"
-    },
-    {
-        "country": "Pitcairn Islands",
-        "tld": "pn"
-    },
-    {
-        "country": "Puerto Rico",
-        "tld": "pr"
-    },
-    {
-        "country": "Palestine",
-        "tld": "ps"
-    },
-    {
-        "country": "Portugal",
-        "tld": "pt"
-    },
-    {
-        "country": "Palau",
-        "tld": "pw"
-    },
-    {
-        "country": "Paraguay",
-        "tld": "py"
-    },
-    {
-        "country": "Qatar",
-        "tld": "qa"
-    },
-    {
-        "country": "R\u00e9union",
-        "tld": "re"
-    },
-    {
-        "country": "Romania",
-        "tld": "ro"
-    },
-    {
-        "country": "Serbia",
-        "tld": "rs"
-    },
-    {
-        "country": "Russia",
-        "tld": "ru"
-    },
-    {
-        "country": "Rwanda",
-        "tld": "rw"
-    },
-    {
-        "country": "Saudi Arabia",
-        "tld": "sa"
-    },
-    {
-        "country": "Solomon Islands",
-        "tld": "sb"
-    },
-    {
-        "country": "Seychelles",
-        "tld": "sc"
-    },
-    {
-        "country": "Sudan",
-        "tld": "sd"
-    },
-    {
-        "country": "Sweden",
-        "tld": "se"
-    },
-    {
-        "country": "Singapore",
-        "tld": "sg"
-    },
-    {
-        "country": "Saint Helena",
-        "tld": "sh"
-    },
-    {
-        "country": "Slovenia",
-        "tld": "si"
-    },
-    {
-        "country": "Svalbard and Jan Mayen",
-        "tld": "sj"
-    },
-    {
-        "country": "Slovakia",
-        "tld": "sk"
-    },
-    {
-        "country": "Sierra Leone",
-        "tld": "sl"
-    },
-    {
-        "country": "San Marino",
-        "tld": "sm"
-    },
-    {
-        "country": "Senegal",
-        "tld": "sn"
-    },
-    {
-        "country": "Somalia",
-        "tld": "so"
-    },
-    {
-        "country": "Suriname",
-        "tld": "sr"
-    },
-    {
-        "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-        "tld": "st"
-    },
-    {
-        "country": "Soviet Union",
-        "tld": "su"
-    },
-    {
-        "country": "El Salvador",
-        "tld": "sv"
-    },
-    {
-        "country": "Syria",
-        "tld": "sy"
-    },
-    {
-        "country": "Swaziland",
-        "tld": "sz"
-    },
-    {
-        "country": "Turks and Caicos Islands",
-        "tld": "tc"
-    },
-    {
-        "country": "Chad",
-        "tld": "td"
-    },
-    {
-        "country": "French Southern Territories",
-        "tld": "tf"
-    },
-    {
-        "country": "Togo",
-        "tld": "tg"
-    },
-    {
-        "country": "Thailand",
-        "tld": "th"
-    },
-    {
-        "country": "Tajikistan",
-        "tld": "tj"
-    },
-    {
-        "country": "Tokelau",
-        "tld": "tk"
-    },
-    {
-        "country": "East Timor",
-        "tld": "tl"
-    },
-    {
-        "country": "Turkmenistan",
-        "tld": "tm"
-    },
-    {
-        "country": "Tunisia",
-        "tld": "tn"
-    },
-    {
-        "country": "Tonga",
-        "tld": "to"
-    },
-    {
-        "country": "East Timor",
-        "tld": "tp"
-    },
-    {
-        "country": "Turkey",
-        "tld": "tr"
-    },
-    {
-        "country": "Trinidad and Tobago",
-        "tld": "tt"
-    },
-    {
-        "country": "Tuvalu",
-        "tld": "tv"
-    },
-    {
-        "country": "Taiwan",
-        "tld": "tw"
-    },
-    {
-        "country": "Tanzania",
-        "tld": "tz"
-    },
-    {
-        "country": "Ukraine",
-        "tld": "ua"
-    },
-    {
-        "country": "Uganda",
-        "tld": "ug"
-    },
-    {
-        "country": "United Kingdom",
-        "tld": "uk"
-    },
-    {
-        "country": "US Minor Outlying Islands",
-        "tld": "um"
-    },
-    {
-        "country": "United States",
-        "tld": "us"
-    },
-    {
-        "country": "Uruguay",
-        "tld": "uy"
-    },
-    {
-        "country": "Uzbekistan",
-        "tld": "uz"
-    },
-    {
-        "country": "Vatican City",
-        "tld": "va"
-    },
-    {
-        "country": "Saint Vincent and the Grenadines",
-        "tld": "vc"
-    },
-    {
-        "country": "Venezuela",
-        "tld": "ve"
-    },
-    {
-        "country": "British Virgin Islands",
-        "tld": "vg"
-    },
-    {
-        "country": "United States Virgin Islands",
-        "tld": "vi"
-    },
-    {
-        "country": "Vietnam",
-        "tld": "vn"
-    },
-    {
-        "country": "Vanuatu",
-        "tld": "vu"
-    },
-    {
-        "country": "Wallis and Futuna",
-        "tld": "wf"
-    },
-    {
-        "country": "Samoa",
-        "tld": "ws"
-    },
-    {
-        "country": "Yemen",
-        "tld": "ye"
-    },
-    {
-        "country": "Mayotte",
-        "tld": "yt"
-    },
-    {
-        "country": "Yugoslavia",
-        "tld": "yu"
-    },
-    {
-        "country": "South Africa",
-        "tld": "za"
-    },
-    {
-        "country": "Zambia",
-        "tld": "zm"
-    },
-    {
-        "country": "Zimbabwe",
-        "tld": "zw"
-    }
+  {
+    "country": "N/A",
+    "tld": "AAA"
+  },
+  {
+    "country": "N/A",
+    "tld": "AARP"
+  },
+  {
+    "country": "N/A",
+    "tld": "ABB"
+  },
+  {
+    "country": "N/A",
+    "tld": "ABBOTT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ABOGADO"
+  },
+  {
+    "country": "N/A",
+    "tld": "AC"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACADEMY"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACCENTURE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACCOUNTANT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACCOUNTANTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACTIVE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ACTOR"
+  },
+  {
+    "country": "N/A",
+    "tld": "AD"
+  },
+  {
+    "country": "N/A",
+    "tld": "ADAC"
+  },
+  {
+    "country": "N/A",
+    "tld": "ADS"
+  },
+  {
+    "country": "N/A",
+    "tld": "ADULT"
+  },
+  {
+    "country": "N/A",
+    "tld": "AE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AEG"
+  },
+  {
+    "country": "N/A",
+    "tld": "AERO"
+  },
+  {
+    "country": "N/A",
+    "tld": "AF"
+  },
+  {
+    "country": "N/A",
+    "tld": "AFL"
+  },
+  {
+    "country": "N/A",
+    "tld": "AG"
+  },
+  {
+    "country": "N/A",
+    "tld": "AGENCY"
+  },
+  {
+    "country": "N/A",
+    "tld": "AI"
+  },
+  {
+    "country": "N/A",
+    "tld": "AIG"
+  },
+  {
+    "country": "N/A",
+    "tld": "AIRFORCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AIRTEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "AL"
+  },
+  {
+    "country": "N/A",
+    "tld": "ALIBABA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ALIPAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "ALLFINANZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "ALSACE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AM"
+  },
+  {
+    "country": "N/A",
+    "tld": "AMICA"
+  },
+  {
+    "country": "N/A",
+    "tld": "AMSTERDAM"
+  },
+  {
+    "country": "N/A",
+    "tld": "ANALYTICS"
+  },
+  {
+    "country": "N/A",
+    "tld": "ANDROID"
+  },
+  {
+    "country": "N/A",
+    "tld": "AO"
+  },
+  {
+    "country": "N/A",
+    "tld": "APARTMENTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "APP"
+  },
+  {
+    "country": "N/A",
+    "tld": "APPLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "AQUARELLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AR"
+  },
+  {
+    "country": "N/A",
+    "tld": "ARAMCO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ARCHI"
+  },
+  {
+    "country": "N/A",
+    "tld": "ARMY"
+  },
+  {
+    "country": "N/A",
+    "tld": "ARPA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ARTE"
+  },
+  {
+    "country": "N/A",
+    "tld": "AS"
+  },
+  {
+    "country": "N/A",
+    "tld": "ASIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ASSOCIATES"
+  },
+  {
+    "country": "N/A",
+    "tld": "AT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ATTORNEY"
+  },
+  {
+    "country": "N/A",
+    "tld": "AU"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUCTION"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUDI"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUDIO"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUTHOR"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUTO"
+  },
+  {
+    "country": "N/A",
+    "tld": "AUTOS"
+  },
+  {
+    "country": "N/A",
+    "tld": "AW"
+  },
+  {
+    "country": "N/A",
+    "tld": "AX"
+  },
+  {
+    "country": "N/A",
+    "tld": "AXA"
+  },
+  {
+    "country": "N/A",
+    "tld": "AZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "AZURE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BA"
+  },
+  {
+    "country": "N/A",
+    "tld": "BAIDU"
+  },
+  {
+    "country": "N/A",
+    "tld": "BAND"
+  },
+  {
+    "country": "N/A",
+    "tld": "BANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "BAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "BARCELONA"
+  },
+  {
+    "country": "N/A",
+    "tld": "BARCLAYCARD"
+  },
+  {
+    "country": "N/A",
+    "tld": "BARCLAYS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BARGAINS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BAUHAUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BAYERN"
+  },
+  {
+    "country": "N/A",
+    "tld": "BB"
+  },
+  {
+    "country": "N/A",
+    "tld": "BBC"
+  },
+  {
+    "country": "N/A",
+    "tld": "BBVA"
+  },
+  {
+    "country": "N/A",
+    "tld": "BCN"
+  },
+  {
+    "country": "N/A",
+    "tld": "BD"
+  },
+  {
+    "country": "N/A",
+    "tld": "BE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BEATS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BEER"
+  },
+  {
+    "country": "N/A",
+    "tld": "BENTLEY"
+  },
+  {
+    "country": "N/A",
+    "tld": "BERLIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "BEST"
+  },
+  {
+    "country": "N/A",
+    "tld": "BET"
+  },
+  {
+    "country": "N/A",
+    "tld": "BF"
+  },
+  {
+    "country": "N/A",
+    "tld": "BG"
+  },
+  {
+    "country": "N/A",
+    "tld": "BH"
+  },
+  {
+    "country": "N/A",
+    "tld": "BHARTI"
+  },
+  {
+    "country": "N/A",
+    "tld": "BI"
+  },
+  {
+    "country": "N/A",
+    "tld": "BIBLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BID"
+  },
+  {
+    "country": "N/A",
+    "tld": "BIKE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BING"
+  },
+  {
+    "country": "N/A",
+    "tld": "BINGO"
+  },
+  {
+    "country": "N/A",
+    "tld": "BIO"
+  },
+  {
+    "country": "N/A",
+    "tld": "BIZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "BJ"
+  },
+  {
+    "country": "N/A",
+    "tld": "BLACK"
+  },
+  {
+    "country": "N/A",
+    "tld": "BLACKFRIDAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "BLOOMBERG"
+  },
+  {
+    "country": "N/A",
+    "tld": "BLUE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BM"
+  },
+  {
+    "country": "N/A",
+    "tld": "BMS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BMW"
+  },
+  {
+    "country": "N/A",
+    "tld": "BN"
+  },
+  {
+    "country": "N/A",
+    "tld": "BNL"
+  },
+  {
+    "country": "N/A",
+    "tld": "BNPPARIBAS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BO"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOATS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOEHRINGER"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOM"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOND"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOOK"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOOTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOSCH"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOSTIK"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOT"
+  },
+  {
+    "country": "N/A",
+    "tld": "BOUTIQUE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BR"
+  },
+  {
+    "country": "N/A",
+    "tld": "BRADESCO"
+  },
+  {
+    "country": "N/A",
+    "tld": "BRIDGESTONE"
+  },
+  {
+    "country": "N/A",
+    "tld": "BROADWAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "BROKER"
+  },
+  {
+    "country": "N/A",
+    "tld": "BROTHER"
+  },
+  {
+    "country": "N/A",
+    "tld": "BRUSSELS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BT"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUDAPEST"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUGATTI"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUILD"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUILDERS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUSINESS"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUY"
+  },
+  {
+    "country": "N/A",
+    "tld": "BUZZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "BV"
+  },
+  {
+    "country": "N/A",
+    "tld": "BW"
+  },
+  {
+    "country": "N/A",
+    "tld": "BY"
+  },
+  {
+    "country": "N/A",
+    "tld": "BZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "BZH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAB"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAFE"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CALL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAMERA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAMP"
+  },
+  {
+    "country": "N/A",
+    "tld": "CANCERRESEARCH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CANON"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAPETOWN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAPITAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "CARAVAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CARDS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CARE"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAREER"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAREERS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CARS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CARTIER"
+  },
+  {
+    "country": "N/A",
+    "tld": "CASA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CASH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CASINO"
+  },
+  {
+    "country": "N/A",
+    "tld": "CAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "CATERING"
+  },
+  {
+    "country": "N/A",
+    "tld": "CBA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CBN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CC"
+  },
+  {
+    "country": "N/A",
+    "tld": "CD"
+  },
+  {
+    "country": "N/A",
+    "tld": "CEB"
+  },
+  {
+    "country": "N/A",
+    "tld": "CENTER"
+  },
+  {
+    "country": "N/A",
+    "tld": "CEO"
+  },
+  {
+    "country": "N/A",
+    "tld": "CERN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CF"
+  },
+  {
+    "country": "N/A",
+    "tld": "CFA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CFD"
+  },
+  {
+    "country": "N/A",
+    "tld": "CG"
+  },
+  {
+    "country": "N/A",
+    "tld": "CH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHANEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHANNEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHEAP"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHLOE"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHRISTMAS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHROME"
+  },
+  {
+    "country": "N/A",
+    "tld": "CHURCH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CI"
+  },
+  {
+    "country": "N/A",
+    "tld": "CIPRIANI"
+  },
+  {
+    "country": "N/A",
+    "tld": "CIRCLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "CISCO"
+  },
+  {
+    "country": "N/A",
+    "tld": "CITIC"
+  },
+  {
+    "country": "N/A",
+    "tld": "CITY"
+  },
+  {
+    "country": "N/A",
+    "tld": "CITYEATS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CK"
+  },
+  {
+    "country": "N/A",
+    "tld": "CL"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLAIMS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLEANING"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLICK"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLINIC"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLINIQUE"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLOTHING"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLOUD"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLUB"
+  },
+  {
+    "country": "N/A",
+    "tld": "CLUBMED"
+  },
+  {
+    "country": "N/A",
+    "tld": "CM"
+  },
+  {
+    "country": "N/A",
+    "tld": "CN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CO"
+  },
+  {
+    "country": "N/A",
+    "tld": "COACH"
+  },
+  {
+    "country": "N/A",
+    "tld": "CODES"
+  },
+  {
+    "country": "N/A",
+    "tld": "COFFEE"
+  },
+  {
+    "country": "N/A",
+    "tld": "COLLEGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "COLOGNE"
+  },
+  {
+    "country": "N/A",
+    "tld": "COM"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMMBANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMMUNITY"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMPANY"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMPARE"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMPUTER"
+  },
+  {
+    "country": "N/A",
+    "tld": "COMSEC"
+  },
+  {
+    "country": "N/A",
+    "tld": "CONDOS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CONSTRUCTION"
+  },
+  {
+    "country": "N/A",
+    "tld": "CONSULTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "CONTACT"
+  },
+  {
+    "country": "N/A",
+    "tld": "CONTRACTORS"
+  },
+  {
+    "country": "N/A",
+    "tld": "COOKING"
+  },
+  {
+    "country": "N/A",
+    "tld": "COOL"
+  },
+  {
+    "country": "N/A",
+    "tld": "COOP"
+  },
+  {
+    "country": "N/A",
+    "tld": "CORSICA"
+  },
+  {
+    "country": "N/A",
+    "tld": "COUNTRY"
+  },
+  {
+    "country": "N/A",
+    "tld": "COUPONS"
+  },
+  {
+    "country": "N/A",
+    "tld": "COURSES"
+  },
+  {
+    "country": "N/A",
+    "tld": "CR"
+  },
+  {
+    "country": "N/A",
+    "tld": "CREDIT"
+  },
+  {
+    "country": "N/A",
+    "tld": "CREDITCARD"
+  },
+  {
+    "country": "N/A",
+    "tld": "CREDITUNION"
+  },
+  {
+    "country": "N/A",
+    "tld": "CRICKET"
+  },
+  {
+    "country": "N/A",
+    "tld": "CROWN"
+  },
+  {
+    "country": "N/A",
+    "tld": "CRS"
+  },
+  {
+    "country": "N/A",
+    "tld": "CRUISES"
+  },
+  {
+    "country": "N/A",
+    "tld": "CSC"
+  },
+  {
+    "country": "N/A",
+    "tld": "CU"
+  },
+  {
+    "country": "N/A",
+    "tld": "CUISINELLA"
+  },
+  {
+    "country": "N/A",
+    "tld": "CV"
+  },
+  {
+    "country": "N/A",
+    "tld": "CW"
+  },
+  {
+    "country": "N/A",
+    "tld": "CX"
+  },
+  {
+    "country": "N/A",
+    "tld": "CY"
+  },
+  {
+    "country": "N/A",
+    "tld": "CYMRU"
+  },
+  {
+    "country": "N/A",
+    "tld": "CYOU"
+  },
+  {
+    "country": "N/A",
+    "tld": "CZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "DABUR"
+  },
+  {
+    "country": "N/A",
+    "tld": "DAD"
+  },
+  {
+    "country": "N/A",
+    "tld": "DANCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DATE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DATING"
+  },
+  {
+    "country": "N/A",
+    "tld": "DATSUN"
+  },
+  {
+    "country": "N/A",
+    "tld": "DAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "DCLK"
+  },
+  {
+    "country": "N/A",
+    "tld": "DE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DEALER"
+  },
+  {
+    "country": "N/A",
+    "tld": "DEALS"
+  },
+  {
+    "country": "N/A",
+    "tld": "DEGREE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DELIVERY"
+  },
+  {
+    "country": "N/A",
+    "tld": "DELL"
+  },
+  {
+    "country": "N/A",
+    "tld": "DELOITTE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DELTA"
+  },
+  {
+    "country": "N/A",
+    "tld": "DEMOCRAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "DENTAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "DENTIST"
+  },
+  {
+    "country": "N/A",
+    "tld": "DESI"
+  },
+  {
+    "country": "N/A",
+    "tld": "DESIGN"
+  },
+  {
+    "country": "N/A",
+    "tld": "DEV"
+  },
+  {
+    "country": "N/A",
+    "tld": "DIAMONDS"
+  },
+  {
+    "country": "N/A",
+    "tld": "DIET"
+  },
+  {
+    "country": "N/A",
+    "tld": "DIGITAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "DIRECT"
+  },
+  {
+    "country": "N/A",
+    "tld": "DIRECTORY"
+  },
+  {
+    "country": "N/A",
+    "tld": "DISCOUNT"
+  },
+  {
+    "country": "N/A",
+    "tld": "DJ"
+  },
+  {
+    "country": "N/A",
+    "tld": "DK"
+  },
+  {
+    "country": "N/A",
+    "tld": "DM"
+  },
+  {
+    "country": "N/A",
+    "tld": "DNP"
+  },
+  {
+    "country": "N/A",
+    "tld": "DO"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOCS"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOG"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOHA"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOMAINS"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOOSAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "DOWNLOAD"
+  },
+  {
+    "country": "N/A",
+    "tld": "DRIVE"
+  },
+  {
+    "country": "N/A",
+    "tld": "DUBAI"
+  },
+  {
+    "country": "N/A",
+    "tld": "DURBAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "DVAG"
+  },
+  {
+    "country": "N/A",
+    "tld": "DZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "EARTH"
+  },
+  {
+    "country": "N/A",
+    "tld": "EAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "EC"
+  },
+  {
+    "country": "N/A",
+    "tld": "EDEKA"
+  },
+  {
+    "country": "N/A",
+    "tld": "EDU"
+  },
+  {
+    "country": "N/A",
+    "tld": "EDUCATION"
+  },
+  {
+    "country": "N/A",
+    "tld": "EE"
+  },
+  {
+    "country": "N/A",
+    "tld": "EG"
+  },
+  {
+    "country": "N/A",
+    "tld": "EMAIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "EMERCK"
+  },
+  {
+    "country": "N/A",
+    "tld": "ENERGY"
+  },
+  {
+    "country": "N/A",
+    "tld": "ENGINEER"
+  },
+  {
+    "country": "N/A",
+    "tld": "ENGINEERING"
+  },
+  {
+    "country": "N/A",
+    "tld": "ENTERPRISES"
+  },
+  {
+    "country": "N/A",
+    "tld": "EPSON"
+  },
+  {
+    "country": "N/A",
+    "tld": "EQUIPMENT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ER"
+  },
+  {
+    "country": "N/A",
+    "tld": "ERNI"
+  },
+  {
+    "country": "N/A",
+    "tld": "ES"
+  },
+  {
+    "country": "N/A",
+    "tld": "ESQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "ESTATE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ET"
+  },
+  {
+    "country": "N/A",
+    "tld": "EU"
+  },
+  {
+    "country": "N/A",
+    "tld": "EUROVISION"
+  },
+  {
+    "country": "N/A",
+    "tld": "EUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "EVENTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "EVERBANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "EXCHANGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "EXPERT"
+  },
+  {
+    "country": "N/A",
+    "tld": "EXPOSED"
+  },
+  {
+    "country": "N/A",
+    "tld": "EXPRESS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAIRWINDS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAITH"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAMILY"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "FANS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FARM"
+  },
+  {
+    "country": "N/A",
+    "tld": "FASHION"
+  },
+  {
+    "country": "N/A",
+    "tld": "FAST"
+  },
+  {
+    "country": "N/A",
+    "tld": "FEEDBACK"
+  },
+  {
+    "country": "N/A",
+    "tld": "FERRERO"
+  },
+  {
+    "country": "N/A",
+    "tld": "FI"
+  },
+  {
+    "country": "N/A",
+    "tld": "FILM"
+  },
+  {
+    "country": "N/A",
+    "tld": "FINAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FINANCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FINANCIAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FIRESTONE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FIRMDALE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FISH"
+  },
+  {
+    "country": "N/A",
+    "tld": "FISHING"
+  },
+  {
+    "country": "N/A",
+    "tld": "FIT"
+  },
+  {
+    "country": "N/A",
+    "tld": "FITNESS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FJ"
+  },
+  {
+    "country": "N/A",
+    "tld": "FK"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLICKR"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLIGHTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLORIST"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLOWERS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLSMIDTH"
+  },
+  {
+    "country": "N/A",
+    "tld": "FLY"
+  },
+  {
+    "country": "N/A",
+    "tld": "FM"
+  },
+  {
+    "country": "N/A",
+    "tld": "FO"
+  },
+  {
+    "country": "N/A",
+    "tld": "FOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "FOOTBALL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FORD"
+  },
+  {
+    "country": "N/A",
+    "tld": "FOREX"
+  },
+  {
+    "country": "N/A",
+    "tld": "FORSALE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FORUM"
+  },
+  {
+    "country": "N/A",
+    "tld": "FOUNDATION"
+  },
+  {
+    "country": "N/A",
+    "tld": "FOX"
+  },
+  {
+    "country": "N/A",
+    "tld": "FR"
+  },
+  {
+    "country": "N/A",
+    "tld": "FRESENIUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FRL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FROGANS"
+  },
+  {
+    "country": "N/A",
+    "tld": "FRONTIER"
+  },
+  {
+    "country": "N/A",
+    "tld": "FUND"
+  },
+  {
+    "country": "N/A",
+    "tld": "FURNITURE"
+  },
+  {
+    "country": "N/A",
+    "tld": "FUTBOL"
+  },
+  {
+    "country": "N/A",
+    "tld": "FYI"
+  },
+  {
+    "country": "N/A",
+    "tld": "GA"
+  },
+  {
+    "country": "N/A",
+    "tld": "GAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "GALLERY"
+  },
+  {
+    "country": "N/A",
+    "tld": "GALLUP"
+  },
+  {
+    "country": "N/A",
+    "tld": "GAME"
+  },
+  {
+    "country": "N/A",
+    "tld": "GARDEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "GB"
+  },
+  {
+    "country": "N/A",
+    "tld": "GBIZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "GD"
+  },
+  {
+    "country": "N/A",
+    "tld": "GDN"
+  },
+  {
+    "country": "N/A",
+    "tld": "GE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GEA"
+  },
+  {
+    "country": "N/A",
+    "tld": "GENT"
+  },
+  {
+    "country": "N/A",
+    "tld": "GENTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "GF"
+  },
+  {
+    "country": "N/A",
+    "tld": "GG"
+  },
+  {
+    "country": "N/A",
+    "tld": "GGEE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GH"
+  },
+  {
+    "country": "N/A",
+    "tld": "GI"
+  },
+  {
+    "country": "N/A",
+    "tld": "GIFT"
+  },
+  {
+    "country": "N/A",
+    "tld": "GIFTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GIVES"
+  },
+  {
+    "country": "N/A",
+    "tld": "GIVING"
+  },
+  {
+    "country": "N/A",
+    "tld": "GL"
+  },
+  {
+    "country": "N/A",
+    "tld": "GLASS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GLOBAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "GLOBO"
+  },
+  {
+    "country": "N/A",
+    "tld": "GM"
+  },
+  {
+    "country": "N/A",
+    "tld": "GMAIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "GMO"
+  },
+  {
+    "country": "N/A",
+    "tld": "GMX"
+  },
+  {
+    "country": "N/A",
+    "tld": "GN"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOLD"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOLDPOINT"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOLF"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOOG"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOOGLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOP"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOT"
+  },
+  {
+    "country": "N/A",
+    "tld": "GOV"
+  },
+  {
+    "country": "N/A",
+    "tld": "GP"
+  },
+  {
+    "country": "N/A",
+    "tld": "GQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "GR"
+  },
+  {
+    "country": "N/A",
+    "tld": "GRAINGER"
+  },
+  {
+    "country": "N/A",
+    "tld": "GRAPHICS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GRATIS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GREEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "GRIPE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GROUP"
+  },
+  {
+    "country": "N/A",
+    "tld": "GS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GT"
+  },
+  {
+    "country": "N/A",
+    "tld": "GU"
+  },
+  {
+    "country": "N/A",
+    "tld": "GUCCI"
+  },
+  {
+    "country": "N/A",
+    "tld": "GUGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GUIDE"
+  },
+  {
+    "country": "N/A",
+    "tld": "GUITARS"
+  },
+  {
+    "country": "N/A",
+    "tld": "GURU"
+  },
+  {
+    "country": "N/A",
+    "tld": "GW"
+  },
+  {
+    "country": "N/A",
+    "tld": "GY"
+  },
+  {
+    "country": "N/A",
+    "tld": "HAMBURG"
+  },
+  {
+    "country": "N/A",
+    "tld": "HANGOUT"
+  },
+  {
+    "country": "N/A",
+    "tld": "HAUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "HDFCBANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "HEALTH"
+  },
+  {
+    "country": "N/A",
+    "tld": "HEALTHCARE"
+  },
+  {
+    "country": "N/A",
+    "tld": "HELP"
+  },
+  {
+    "country": "N/A",
+    "tld": "HELSINKI"
+  },
+  {
+    "country": "N/A",
+    "tld": "HERE"
+  },
+  {
+    "country": "N/A",
+    "tld": "HERMES"
+  },
+  {
+    "country": "N/A",
+    "tld": "HIPHOP"
+  },
+  {
+    "country": "N/A",
+    "tld": "HITACHI"
+  },
+  {
+    "country": "N/A",
+    "tld": "HIV"
+  },
+  {
+    "country": "N/A",
+    "tld": "HK"
+  },
+  {
+    "country": "N/A",
+    "tld": "HM"
+  },
+  {
+    "country": "N/A",
+    "tld": "HN"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOCKEY"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOLDINGS"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOLIDAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOMEDEPOT"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOMES"
+  },
+  {
+    "country": "N/A",
+    "tld": "HONDA"
+  },
+  {
+    "country": "N/A",
+    "tld": "HORSE"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOST"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOSTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOTELES"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOTMAIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOUSE"
+  },
+  {
+    "country": "N/A",
+    "tld": "HOW"
+  },
+  {
+    "country": "N/A",
+    "tld": "HR"
+  },
+  {
+    "country": "N/A",
+    "tld": "HSBC"
+  },
+  {
+    "country": "N/A",
+    "tld": "HT"
+  },
+  {
+    "country": "N/A",
+    "tld": "HU"
+  },
+  {
+    "country": "N/A",
+    "tld": "HYUNDAI"
+  },
+  {
+    "country": "N/A",
+    "tld": "IBM"
+  },
+  {
+    "country": "N/A",
+    "tld": "ICBC"
+  },
+  {
+    "country": "N/A",
+    "tld": "ICE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ICU"
+  },
+  {
+    "country": "N/A",
+    "tld": "ID"
+  },
+  {
+    "country": "N/A",
+    "tld": "IE"
+  },
+  {
+    "country": "N/A",
+    "tld": "IFM"
+  },
+  {
+    "country": "N/A",
+    "tld": "IINET"
+  },
+  {
+    "country": "N/A",
+    "tld": "IL"
+  },
+  {
+    "country": "N/A",
+    "tld": "IM"
+  },
+  {
+    "country": "N/A",
+    "tld": "IMMO"
+  },
+  {
+    "country": "N/A",
+    "tld": "IMMOBILIEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "IN"
+  },
+  {
+    "country": "N/A",
+    "tld": "INDUSTRIES"
+  },
+  {
+    "country": "N/A",
+    "tld": "INFINITI"
+  },
+  {
+    "country": "N/A",
+    "tld": "INFO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ING"
+  },
+  {
+    "country": "N/A",
+    "tld": "INK"
+  },
+  {
+    "country": "N/A",
+    "tld": "INSTITUTE"
+  },
+  {
+    "country": "N/A",
+    "tld": "INSURANCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "INSURE"
+  },
+  {
+    "country": "N/A",
+    "tld": "INT"
+  },
+  {
+    "country": "N/A",
+    "tld": "INTERNATIONAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "INVESTMENTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "IO"
+  },
+  {
+    "country": "N/A",
+    "tld": "IPIRANGA"
+  },
+  {
+    "country": "N/A",
+    "tld": "IQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "IR"
+  },
+  {
+    "country": "N/A",
+    "tld": "IRISH"
+  },
+  {
+    "country": "N/A",
+    "tld": "IS"
+  },
+  {
+    "country": "N/A",
+    "tld": "ISELECT"
+  },
+  {
+    "country": "N/A",
+    "tld": "IST"
+  },
+  {
+    "country": "N/A",
+    "tld": "ISTANBUL"
+  },
+  {
+    "country": "N/A",
+    "tld": "IT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ITAU"
+  },
+  {
+    "country": "N/A",
+    "tld": "IWC"
+  },
+  {
+    "country": "N/A",
+    "tld": "JAGUAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "JAVA"
+  },
+  {
+    "country": "N/A",
+    "tld": "JCB"
+  },
+  {
+    "country": "N/A",
+    "tld": "JE"
+  },
+  {
+    "country": "N/A",
+    "tld": "JETZT"
+  },
+  {
+    "country": "N/A",
+    "tld": "JEWELRY"
+  },
+  {
+    "country": "N/A",
+    "tld": "JLC"
+  },
+  {
+    "country": "N/A",
+    "tld": "JLL"
+  },
+  {
+    "country": "N/A",
+    "tld": "JM"
+  },
+  {
+    "country": "N/A",
+    "tld": "JMP"
+  },
+  {
+    "country": "N/A",
+    "tld": "JO"
+  },
+  {
+    "country": "N/A",
+    "tld": "JOBS"
+  },
+  {
+    "country": "N/A",
+    "tld": "JOBURG"
+  },
+  {
+    "country": "N/A",
+    "tld": "JOT"
+  },
+  {
+    "country": "N/A",
+    "tld": "JOY"
+  },
+  {
+    "country": "N/A",
+    "tld": "JP"
+  },
+  {
+    "country": "N/A",
+    "tld": "JPRS"
+  },
+  {
+    "country": "N/A",
+    "tld": "JUEGOS"
+  },
+  {
+    "country": "N/A",
+    "tld": "KAUFEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "KDDI"
+  },
+  {
+    "country": "N/A",
+    "tld": "KE"
+  },
+  {
+    "country": "N/A",
+    "tld": "KFH"
+  },
+  {
+    "country": "N/A",
+    "tld": "KG"
+  },
+  {
+    "country": "N/A",
+    "tld": "KH"
+  },
+  {
+    "country": "N/A",
+    "tld": "KI"
+  },
+  {
+    "country": "N/A",
+    "tld": "KIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "KIM"
+  },
+  {
+    "country": "N/A",
+    "tld": "KINDER"
+  },
+  {
+    "country": "N/A",
+    "tld": "KITCHEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "KIWI"
+  },
+  {
+    "country": "N/A",
+    "tld": "KM"
+  },
+  {
+    "country": "N/A",
+    "tld": "KN"
+  },
+  {
+    "country": "N/A",
+    "tld": "KOELN"
+  },
+  {
+    "country": "N/A",
+    "tld": "KOMATSU"
+  },
+  {
+    "country": "N/A",
+    "tld": "KP"
+  },
+  {
+    "country": "N/A",
+    "tld": "KPN"
+  },
+  {
+    "country": "N/A",
+    "tld": "KR"
+  },
+  {
+    "country": "N/A",
+    "tld": "KRD"
+  },
+  {
+    "country": "N/A",
+    "tld": "KRED"
+  },
+  {
+    "country": "N/A",
+    "tld": "KW"
+  },
+  {
+    "country": "N/A",
+    "tld": "KY"
+  },
+  {
+    "country": "N/A",
+    "tld": "KYOTO"
+  },
+  {
+    "country": "N/A",
+    "tld": "KZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "LA"
+  },
+  {
+    "country": "N/A",
+    "tld": "LACAIXA"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAMBORGHINI"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAMER"
+  },
+  {
+    "country": "N/A",
+    "tld": "LANCASTER"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAND"
+  },
+  {
+    "country": "N/A",
+    "tld": "LANDROVER"
+  },
+  {
+    "country": "N/A",
+    "tld": "LANXESS"
+  },
+  {
+    "country": "N/A",
+    "tld": "LASALLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "LATROBE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAW"
+  },
+  {
+    "country": "N/A",
+    "tld": "LAWYER"
+  },
+  {
+    "country": "N/A",
+    "tld": "LB"
+  },
+  {
+    "country": "N/A",
+    "tld": "LC"
+  },
+  {
+    "country": "N/A",
+    "tld": "LDS"
+  },
+  {
+    "country": "N/A",
+    "tld": "LEASE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LECLERC"
+  },
+  {
+    "country": "N/A",
+    "tld": "LEGAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "LEXUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "LGBT"
+  },
+  {
+    "country": "N/A",
+    "tld": "LI"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIAISON"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIDL"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIFE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIFEINSURANCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIFESTYLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIGHTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIKE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIMITED"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIMO"
+  },
+  {
+    "country": "N/A",
+    "tld": "LINCOLN"
+  },
+  {
+    "country": "N/A",
+    "tld": "LINDE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LINK"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIVE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIVING"
+  },
+  {
+    "country": "N/A",
+    "tld": "LIXIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "LK"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOANS"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOL"
+  },
+  {
+    "country": "N/A",
+    "tld": "LONDON"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOTTE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOTTO"
+  },
+  {
+    "country": "N/A",
+    "tld": "LOVE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LR"
+  },
+  {
+    "country": "N/A",
+    "tld": "LS"
+  },
+  {
+    "country": "N/A",
+    "tld": "LT"
+  },
+  {
+    "country": "N/A",
+    "tld": "LTD"
+  },
+  {
+    "country": "N/A",
+    "tld": "LTDA"
+  },
+  {
+    "country": "N/A",
+    "tld": "LU"
+  },
+  {
+    "country": "N/A",
+    "tld": "LUPIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "LUXE"
+  },
+  {
+    "country": "N/A",
+    "tld": "LUXURY"
+  },
+  {
+    "country": "N/A",
+    "tld": "LV"
+  },
+  {
+    "country": "N/A",
+    "tld": "LY"
+  },
+  {
+    "country": "N/A",
+    "tld": "MA"
+  },
+  {
+    "country": "N/A",
+    "tld": "MADRID"
+  },
+  {
+    "country": "N/A",
+    "tld": "MAIF"
+  },
+  {
+    "country": "N/A",
+    "tld": "MAISON"
+  },
+  {
+    "country": "N/A",
+    "tld": "MAKEUP"
+  },
+  {
+    "country": "N/A",
+    "tld": "MAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "MANAGEMENT"
+  },
+  {
+    "country": "N/A",
+    "tld": "MANGO"
+  },
+  {
+    "country": "N/A",
+    "tld": "MARKET"
+  },
+  {
+    "country": "N/A",
+    "tld": "MARKETING"
+  },
+  {
+    "country": "N/A",
+    "tld": "MARKETS"
+  },
+  {
+    "country": "N/A",
+    "tld": "MARRIOTT"
+  },
+  {
+    "country": "N/A",
+    "tld": "MBA"
+  },
+  {
+    "country": "N/A",
+    "tld": "MC"
+  },
+  {
+    "country": "N/A",
+    "tld": "MD"
+  },
+  {
+    "country": "N/A",
+    "tld": "ME"
+  },
+  {
+    "country": "N/A",
+    "tld": "MED"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEDIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEET"
+  },
+  {
+    "country": "N/A",
+    "tld": "MELBOURNE"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEME"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEMORIAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "MENU"
+  },
+  {
+    "country": "N/A",
+    "tld": "MEO"
+  },
+  {
+    "country": "N/A",
+    "tld": "MG"
+  },
+  {
+    "country": "N/A",
+    "tld": "MH"
+  },
+  {
+    "country": "N/A",
+    "tld": "MIAMI"
+  },
+  {
+    "country": "N/A",
+    "tld": "MICROSOFT"
+  },
+  {
+    "country": "N/A",
+    "tld": "MIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "MINI"
+  },
+  {
+    "country": "N/A",
+    "tld": "MK"
+  },
+  {
+    "country": "N/A",
+    "tld": "ML"
+  },
+  {
+    "country": "N/A",
+    "tld": "MM"
+  },
+  {
+    "country": "N/A",
+    "tld": "MMA"
+  },
+  {
+    "country": "N/A",
+    "tld": "MN"
+  },
+  {
+    "country": "N/A",
+    "tld": "MO"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOBI"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOBILY"
+  },
+  {
+    "country": "N/A",
+    "tld": "MODA"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOE"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOI"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOM"
+  },
+  {
+    "country": "N/A",
+    "tld": "MONASH"
+  },
+  {
+    "country": "N/A",
+    "tld": "MONEY"
+  },
+  {
+    "country": "N/A",
+    "tld": "MONTBLANC"
+  },
+  {
+    "country": "N/A",
+    "tld": "MORMON"
+  },
+  {
+    "country": "N/A",
+    "tld": "MORTGAGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOSCOW"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOTORCYCLES"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOV"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOVIE"
+  },
+  {
+    "country": "N/A",
+    "tld": "MOVISTAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "MP"
+  },
+  {
+    "country": "N/A",
+    "tld": "MQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "MR"
+  },
+  {
+    "country": "N/A",
+    "tld": "MS"
+  },
+  {
+    "country": "N/A",
+    "tld": "MT"
+  },
+  {
+    "country": "N/A",
+    "tld": "MTN"
+  },
+  {
+    "country": "N/A",
+    "tld": "MTPC"
+  },
+  {
+    "country": "N/A",
+    "tld": "MTR"
+  },
+  {
+    "country": "N/A",
+    "tld": "MU"
+  },
+  {
+    "country": "N/A",
+    "tld": "MUSEUM"
+  },
+  {
+    "country": "N/A",
+    "tld": "MUTUELLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "MV"
+  },
+  {
+    "country": "N/A",
+    "tld": "MW"
+  },
+  {
+    "country": "N/A",
+    "tld": "MX"
+  },
+  {
+    "country": "N/A",
+    "tld": "MY"
+  },
+  {
+    "country": "N/A",
+    "tld": "MZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "NA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NADEX"
+  },
+  {
+    "country": "N/A",
+    "tld": "NAGOYA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NAME"
+  },
+  {
+    "country": "N/A",
+    "tld": "NATURA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NAVY"
+  },
+  {
+    "country": "N/A",
+    "tld": "NC"
+  },
+  {
+    "country": "N/A",
+    "tld": "NE"
+  },
+  {
+    "country": "N/A",
+    "tld": "NEC"
+  },
+  {
+    "country": "N/A",
+    "tld": "NET"
+  },
+  {
+    "country": "N/A",
+    "tld": "NETBANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "NETWORK"
+  },
+  {
+    "country": "N/A",
+    "tld": "NEUSTAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "NEW"
+  },
+  {
+    "country": "N/A",
+    "tld": "NEWS"
+  },
+  {
+    "country": "N/A",
+    "tld": "NEXUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "NF"
+  },
+  {
+    "country": "N/A",
+    "tld": "NG"
+  },
+  {
+    "country": "N/A",
+    "tld": "NGO"
+  },
+  {
+    "country": "N/A",
+    "tld": "NHK"
+  },
+  {
+    "country": "N/A",
+    "tld": "NI"
+  },
+  {
+    "country": "N/A",
+    "tld": "NICO"
+  },
+  {
+    "country": "N/A",
+    "tld": "NIKON"
+  },
+  {
+    "country": "N/A",
+    "tld": "NINJA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NISSAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "NL"
+  },
+  {
+    "country": "N/A",
+    "tld": "NO"
+  },
+  {
+    "country": "N/A",
+    "tld": "NOKIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NORTON"
+  },
+  {
+    "country": "N/A",
+    "tld": "NOWRUZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "NP"
+  },
+  {
+    "country": "N/A",
+    "tld": "NR"
+  },
+  {
+    "country": "N/A",
+    "tld": "NRA"
+  },
+  {
+    "country": "N/A",
+    "tld": "NRW"
+  },
+  {
+    "country": "N/A",
+    "tld": "NTT"
+  },
+  {
+    "country": "N/A",
+    "tld": "NU"
+  },
+  {
+    "country": "N/A",
+    "tld": "NYC"
+  },
+  {
+    "country": "N/A",
+    "tld": "NZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "OBI"
+  },
+  {
+    "country": "N/A",
+    "tld": "OFFICE"
+  },
+  {
+    "country": "N/A",
+    "tld": "OKINAWA"
+  },
+  {
+    "country": "N/A",
+    "tld": "OM"
+  },
+  {
+    "country": "N/A",
+    "tld": "OMEGA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ONE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ONG"
+  },
+  {
+    "country": "N/A",
+    "tld": "ONL"
+  },
+  {
+    "country": "N/A",
+    "tld": "ONLINE"
+  },
+  {
+    "country": "N/A",
+    "tld": "OOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ORACLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ORANGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ORG"
+  },
+  {
+    "country": "N/A",
+    "tld": "ORGANIC"
+  },
+  {
+    "country": "N/A",
+    "tld": "ORIGINS"
+  },
+  {
+    "country": "N/A",
+    "tld": "OSAKA"
+  },
+  {
+    "country": "N/A",
+    "tld": "OTSUKA"
+  },
+  {
+    "country": "N/A",
+    "tld": "OVH"
+  },
+  {
+    "country": "N/A",
+    "tld": "PA"
+  },
+  {
+    "country": "N/A",
+    "tld": "PAGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "PAMPEREDCHEF"
+  },
+  {
+    "country": "N/A",
+    "tld": "PANERAI"
+  },
+  {
+    "country": "N/A",
+    "tld": "PARIS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PARS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PARTNERS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PARTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PARTY"
+  },
+  {
+    "country": "N/A",
+    "tld": "PE"
+  },
+  {
+    "country": "N/A",
+    "tld": "PET"
+  },
+  {
+    "country": "N/A",
+    "tld": "PF"
+  },
+  {
+    "country": "N/A",
+    "tld": "PG"
+  },
+  {
+    "country": "N/A",
+    "tld": "PH"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHARMACY"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHILIPS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHOTO"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHOTOGRAPHY"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHOTOS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PHYSIO"
+  },
+  {
+    "country": "N/A",
+    "tld": "PIAGET"
+  },
+  {
+    "country": "N/A",
+    "tld": "PICS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PICTET"
+  },
+  {
+    "country": "N/A",
+    "tld": "PICTURES"
+  },
+  {
+    "country": "N/A",
+    "tld": "PID"
+  },
+  {
+    "country": "N/A",
+    "tld": "PIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "PING"
+  },
+  {
+    "country": "N/A",
+    "tld": "PINK"
+  },
+  {
+    "country": "N/A",
+    "tld": "PIZZA"
+  },
+  {
+    "country": "N/A",
+    "tld": "PK"
+  },
+  {
+    "country": "N/A",
+    "tld": "PL"
+  },
+  {
+    "country": "N/A",
+    "tld": "PLACE"
+  },
+  {
+    "country": "N/A",
+    "tld": "PLAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "PLAYSTATION"
+  },
+  {
+    "country": "N/A",
+    "tld": "PLUMBING"
+  },
+  {
+    "country": "N/A",
+    "tld": "PLUS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PM"
+  },
+  {
+    "country": "N/A",
+    "tld": "PN"
+  },
+  {
+    "country": "N/A",
+    "tld": "POHL"
+  },
+  {
+    "country": "N/A",
+    "tld": "POKER"
+  },
+  {
+    "country": "N/A",
+    "tld": "PORN"
+  },
+  {
+    "country": "N/A",
+    "tld": "POST"
+  },
+  {
+    "country": "N/A",
+    "tld": "PR"
+  },
+  {
+    "country": "N/A",
+    "tld": "PRAXI"
+  },
+  {
+    "country": "N/A",
+    "tld": "PRESS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PRO"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROD"
+  },
+  {
+    "country": "N/A",
+    "tld": "PRODUCTIONS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROF"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROMO"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROPERTIES"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROPERTY"
+  },
+  {
+    "country": "N/A",
+    "tld": "PROTECTION"
+  },
+  {
+    "country": "N/A",
+    "tld": "PS"
+  },
+  {
+    "country": "N/A",
+    "tld": "PT"
+  },
+  {
+    "country": "N/A",
+    "tld": "PUB"
+  },
+  {
+    "country": "N/A",
+    "tld": "PW"
+  },
+  {
+    "country": "N/A",
+    "tld": "PWC"
+  },
+  {
+    "country": "N/A",
+    "tld": "PY"
+  },
+  {
+    "country": "N/A",
+    "tld": "QA"
+  },
+  {
+    "country": "N/A",
+    "tld": "QPON"
+  },
+  {
+    "country": "N/A",
+    "tld": "QUEBEC"
+  },
+  {
+    "country": "N/A",
+    "tld": "QUEST"
+  },
+  {
+    "country": "N/A",
+    "tld": "RACING"
+  },
+  {
+    "country": "N/A",
+    "tld": "RE"
+  },
+  {
+    "country": "N/A",
+    "tld": "READ"
+  },
+  {
+    "country": "N/A",
+    "tld": "REALTOR"
+  },
+  {
+    "country": "N/A",
+    "tld": "REALTY"
+  },
+  {
+    "country": "N/A",
+    "tld": "RECIPES"
+  },
+  {
+    "country": "N/A",
+    "tld": "RED"
+  },
+  {
+    "country": "N/A",
+    "tld": "REDSTONE"
+  },
+  {
+    "country": "N/A",
+    "tld": "REDUMBRELLA"
+  },
+  {
+    "country": "N/A",
+    "tld": "REHAB"
+  },
+  {
+    "country": "N/A",
+    "tld": "REISE"
+  },
+  {
+    "country": "N/A",
+    "tld": "REISEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "REIT"
+  },
+  {
+    "country": "N/A",
+    "tld": "REN"
+  },
+  {
+    "country": "N/A",
+    "tld": "RENT"
+  },
+  {
+    "country": "N/A",
+    "tld": "RENTALS"
+  },
+  {
+    "country": "N/A",
+    "tld": "REPAIR"
+  },
+  {
+    "country": "N/A",
+    "tld": "REPORT"
+  },
+  {
+    "country": "N/A",
+    "tld": "REPUBLICAN"
+  },
+  {
+    "country": "N/A",
+    "tld": "REST"
+  },
+  {
+    "country": "N/A",
+    "tld": "RESTAURANT"
+  },
+  {
+    "country": "N/A",
+    "tld": "REVIEW"
+  },
+  {
+    "country": "N/A",
+    "tld": "REVIEWS"
+  },
+  {
+    "country": "N/A",
+    "tld": "REXROTH"
+  },
+  {
+    "country": "N/A",
+    "tld": "RICH"
+  },
+  {
+    "country": "N/A",
+    "tld": "RICOH"
+  },
+  {
+    "country": "N/A",
+    "tld": "RIO"
+  },
+  {
+    "country": "N/A",
+    "tld": "RIP"
+  },
+  {
+    "country": "N/A",
+    "tld": "RO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ROCHER"
+  },
+  {
+    "country": "N/A",
+    "tld": "ROCKS"
+  },
+  {
+    "country": "N/A",
+    "tld": "RODEO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ROOM"
+  },
+  {
+    "country": "N/A",
+    "tld": "RS"
+  },
+  {
+    "country": "N/A",
+    "tld": "RSVP"
+  },
+  {
+    "country": "N/A",
+    "tld": "RU"
+  },
+  {
+    "country": "N/A",
+    "tld": "RUHR"
+  },
+  {
+    "country": "N/A",
+    "tld": "RUN"
+  },
+  {
+    "country": "N/A",
+    "tld": "RW"
+  },
+  {
+    "country": "N/A",
+    "tld": "RWE"
+  },
+  {
+    "country": "N/A",
+    "tld": "RYUKYU"
+  },
+  {
+    "country": "N/A",
+    "tld": "SA"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAARLAND"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAFE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAFETY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAKURA"
+  },
+  {
+    "country": "N/A",
+    "tld": "SALE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SALON"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAMSUNG"
+  },
+  {
+    "country": "N/A",
+    "tld": "SANDVIK"
+  },
+  {
+    "country": "N/A",
+    "tld": "SANDVIKCOROMANT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SANOFI"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAP"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAPO"
+  },
+  {
+    "country": "N/A",
+    "tld": "SARL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SAXO"
+  },
+  {
+    "country": "N/A",
+    "tld": "SB"
+  },
+  {
+    "country": "N/A",
+    "tld": "SBS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SC"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCA"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCB"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHAEFFLER"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHMIDT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHOLARSHIPS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHOOL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHULE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCHWARZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCIENCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCOR"
+  },
+  {
+    "country": "N/A",
+    "tld": "SCOT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SD"
+  },
+  {
+    "country": "N/A",
+    "tld": "SE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEAT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SECURITY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEEK"
+  },
+  {
+    "country": "N/A",
+    "tld": "SELECT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SENER"
+  },
+  {
+    "country": "N/A",
+    "tld": "SERVICES"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEVEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEW"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEX"
+  },
+  {
+    "country": "N/A",
+    "tld": "SEXY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SFR"
+  },
+  {
+    "country": "N/A",
+    "tld": "SG"
+  },
+  {
+    "country": "N/A",
+    "tld": "SH"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHARP"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHELL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHIKSHA"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHOES"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHOW"
+  },
+  {
+    "country": "N/A",
+    "tld": "SHRIRAM"
+  },
+  {
+    "country": "N/A",
+    "tld": "SI"
+  },
+  {
+    "country": "N/A",
+    "tld": "SINGLES"
+  },
+  {
+    "country": "N/A",
+    "tld": "SITE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SJ"
+  },
+  {
+    "country": "N/A",
+    "tld": "SK"
+  },
+  {
+    "country": "N/A",
+    "tld": "SKI"
+  },
+  {
+    "country": "N/A",
+    "tld": "SKIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "SKY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SKYPE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SM"
+  },
+  {
+    "country": "N/A",
+    "tld": "SMILE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SN"
+  },
+  {
+    "country": "N/A",
+    "tld": "SNCF"
+  },
+  {
+    "country": "N/A",
+    "tld": "SO"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOCCER"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOCIAL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOFTBANK"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOFTWARE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOHU"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOLAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOLUTIONS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SONY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SOY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SPACE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SPIEGEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "SPREADBETTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "SR"
+  },
+  {
+    "country": "N/A",
+    "tld": "SRL"
+  },
+  {
+    "country": "N/A",
+    "tld": "ST"
+  },
+  {
+    "country": "N/A",
+    "tld": "STADA"
+  },
+  {
+    "country": "N/A",
+    "tld": "STAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "STARHUB"
+  },
+  {
+    "country": "N/A",
+    "tld": "STATEFARM"
+  },
+  {
+    "country": "N/A",
+    "tld": "STATOIL"
+  },
+  {
+    "country": "N/A",
+    "tld": "STC"
+  },
+  {
+    "country": "N/A",
+    "tld": "STCGROUP"
+  },
+  {
+    "country": "N/A",
+    "tld": "STOCKHOLM"
+  },
+  {
+    "country": "N/A",
+    "tld": "STORAGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "STUDIO"
+  },
+  {
+    "country": "N/A",
+    "tld": "STUDY"
+  },
+  {
+    "country": "N/A",
+    "tld": "STYLE"
+  },
+  {
+    "country": "N/A",
+    "tld": "SU"
+  },
+  {
+    "country": "N/A",
+    "tld": "SUCKS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SUPPLIES"
+  },
+  {
+    "country": "N/A",
+    "tld": "SUPPLY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SUPPORT"
+  },
+  {
+    "country": "N/A",
+    "tld": "SURF"
+  },
+  {
+    "country": "N/A",
+    "tld": "SURGERY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SUZUKI"
+  },
+  {
+    "country": "N/A",
+    "tld": "SV"
+  },
+  {
+    "country": "N/A",
+    "tld": "SWATCH"
+  },
+  {
+    "country": "N/A",
+    "tld": "SWISS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SX"
+  },
+  {
+    "country": "N/A",
+    "tld": "SY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SYDNEY"
+  },
+  {
+    "country": "N/A",
+    "tld": "SYMANTEC"
+  },
+  {
+    "country": "N/A",
+    "tld": "SYSTEMS"
+  },
+  {
+    "country": "N/A",
+    "tld": "SZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "TAB"
+  },
+  {
+    "country": "N/A",
+    "tld": "TAIPEI"
+  },
+  {
+    "country": "N/A",
+    "tld": "TAOBAO"
+  },
+  {
+    "country": "N/A",
+    "tld": "TATAMOTORS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TATAR"
+  },
+  {
+    "country": "N/A",
+    "tld": "TATTOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "TAX"
+  },
+  {
+    "country": "N/A",
+    "tld": "TAXI"
+  },
+  {
+    "country": "N/A",
+    "tld": "TC"
+  },
+  {
+    "country": "N/A",
+    "tld": "TCI"
+  },
+  {
+    "country": "N/A",
+    "tld": "TD"
+  },
+  {
+    "country": "N/A",
+    "tld": "TEAM"
+  },
+  {
+    "country": "N/A",
+    "tld": "TECH"
+  },
+  {
+    "country": "N/A",
+    "tld": "TECHNOLOGY"
+  },
+  {
+    "country": "N/A",
+    "tld": "TEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "TELEFONICA"
+  },
+  {
+    "country": "N/A",
+    "tld": "TEMASEK"
+  },
+  {
+    "country": "N/A",
+    "tld": "TENNIS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TF"
+  },
+  {
+    "country": "N/A",
+    "tld": "TG"
+  },
+  {
+    "country": "N/A",
+    "tld": "TH"
+  },
+  {
+    "country": "N/A",
+    "tld": "THD"
+  },
+  {
+    "country": "N/A",
+    "tld": "THEATER"
+  },
+  {
+    "country": "N/A",
+    "tld": "THEATRE"
+  },
+  {
+    "country": "N/A",
+    "tld": "TICKETS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TIENDA"
+  },
+  {
+    "country": "N/A",
+    "tld": "TIFFANY"
+  },
+  {
+    "country": "N/A",
+    "tld": "TIPS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TIRES"
+  },
+  {
+    "country": "N/A",
+    "tld": "TIROL"
+  },
+  {
+    "country": "N/A",
+    "tld": "TJ"
+  },
+  {
+    "country": "N/A",
+    "tld": "TK"
+  },
+  {
+    "country": "N/A",
+    "tld": "TL"
+  },
+  {
+    "country": "N/A",
+    "tld": "TM"
+  },
+  {
+    "country": "N/A",
+    "tld": "TMALL"
+  },
+  {
+    "country": "N/A",
+    "tld": "TN"
+  },
+  {
+    "country": "N/A",
+    "tld": "TO"
+  },
+  {
+    "country": "N/A",
+    "tld": "TODAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOKYO"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOOLS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOP"
+  },
+  {
+    "country": "N/A",
+    "tld": "TORAY"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOSHIBA"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOURS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOWN"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOYOTA"
+  },
+  {
+    "country": "N/A",
+    "tld": "TOYS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TR"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRADE"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRADING"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRAINING"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRAVEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRAVELERS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRAVELERSINSURANCE"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRUST"
+  },
+  {
+    "country": "N/A",
+    "tld": "TRV"
+  },
+  {
+    "country": "N/A",
+    "tld": "TT"
+  },
+  {
+    "country": "N/A",
+    "tld": "TUBE"
+  },
+  {
+    "country": "N/A",
+    "tld": "TUI"
+  },
+  {
+    "country": "N/A",
+    "tld": "TUSHU"
+  },
+  {
+    "country": "N/A",
+    "tld": "TV"
+  },
+  {
+    "country": "N/A",
+    "tld": "TVS"
+  },
+  {
+    "country": "N/A",
+    "tld": "TW"
+  },
+  {
+    "country": "N/A",
+    "tld": "TZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "UA"
+  },
+  {
+    "country": "N/A",
+    "tld": "UBS"
+  },
+  {
+    "country": "N/A",
+    "tld": "UG"
+  },
+  {
+    "country": "N/A",
+    "tld": "UK"
+  },
+  {
+    "country": "N/A",
+    "tld": "UNICOM"
+  },
+  {
+    "country": "N/A",
+    "tld": "UNIVERSITY"
+  },
+  {
+    "country": "N/A",
+    "tld": "UNO"
+  },
+  {
+    "country": "N/A",
+    "tld": "UOL"
+  },
+  {
+    "country": "N/A",
+    "tld": "US"
+  },
+  {
+    "country": "N/A",
+    "tld": "UY"
+  },
+  {
+    "country": "N/A",
+    "tld": "UZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "VA"
+  },
+  {
+    "country": "N/A",
+    "tld": "VACATIONS"
+  },
+  {
+    "country": "N/A",
+    "tld": "VANA"
+  },
+  {
+    "country": "N/A",
+    "tld": "VC"
+  },
+  {
+    "country": "N/A",
+    "tld": "VE"
+  },
+  {
+    "country": "N/A",
+    "tld": "VEGAS"
+  },
+  {
+    "country": "N/A",
+    "tld": "VENTURES"
+  },
+  {
+    "country": "N/A",
+    "tld": "VERISIGN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VERSICHERUNG"
+  },
+  {
+    "country": "N/A",
+    "tld": "VET"
+  },
+  {
+    "country": "N/A",
+    "tld": "VG"
+  },
+  {
+    "country": "N/A",
+    "tld": "VI"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIAJES"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIDEO"
+  },
+  {
+    "country": "N/A",
+    "tld": "VILLAS"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIP"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIRGIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VISION"
+  },
+  {
+    "country": "N/A",
+    "tld": "VISTA"
+  },
+  {
+    "country": "N/A",
+    "tld": "VISTAPRINT"
+  },
+  {
+    "country": "N/A",
+    "tld": "VIVA"
+  },
+  {
+    "country": "N/A",
+    "tld": "VLAANDEREN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VODKA"
+  },
+  {
+    "country": "N/A",
+    "tld": "VOLKSWAGEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "VOTE"
+  },
+  {
+    "country": "N/A",
+    "tld": "VOTING"
+  },
+  {
+    "country": "N/A",
+    "tld": "VOTO"
+  },
+  {
+    "country": "N/A",
+    "tld": "VOYAGE"
+  },
+  {
+    "country": "N/A",
+    "tld": "VU"
+  },
+  {
+    "country": "N/A",
+    "tld": "WALES"
+  },
+  {
+    "country": "N/A",
+    "tld": "WALTER"
+  },
+  {
+    "country": "N/A",
+    "tld": "WANG"
+  },
+  {
+    "country": "N/A",
+    "tld": "WANGGOU"
+  },
+  {
+    "country": "N/A",
+    "tld": "WATCH"
+  },
+  {
+    "country": "N/A",
+    "tld": "WATCHES"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEATHER"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEATHERCHANNEL"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEBCAM"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEBER"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEBSITE"
+  },
+  {
+    "country": "N/A",
+    "tld": "WED"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEDDING"
+  },
+  {
+    "country": "N/A",
+    "tld": "WEIR"
+  },
+  {
+    "country": "N/A",
+    "tld": "WF"
+  },
+  {
+    "country": "N/A",
+    "tld": "WHOSWHO"
+  },
+  {
+    "country": "N/A",
+    "tld": "WIEN"
+  },
+  {
+    "country": "N/A",
+    "tld": "WIKI"
+  },
+  {
+    "country": "N/A",
+    "tld": "WILLIAMHILL"
+  },
+  {
+    "country": "N/A",
+    "tld": "WIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "WINDOWS"
+  },
+  {
+    "country": "N/A",
+    "tld": "WINE"
+  },
+  {
+    "country": "N/A",
+    "tld": "WME"
+  },
+  {
+    "country": "N/A",
+    "tld": "WOLTERSKLUWER"
+  },
+  {
+    "country": "N/A",
+    "tld": "WORK"
+  },
+  {
+    "country": "N/A",
+    "tld": "WORKS"
+  },
+  {
+    "country": "N/A",
+    "tld": "WORLD"
+  },
+  {
+    "country": "N/A",
+    "tld": "WS"
+  },
+  {
+    "country": "N/A",
+    "tld": "WTC"
+  },
+  {
+    "country": "N/A",
+    "tld": "WTF"
+  },
+  {
+    "country": "N/A",
+    "tld": "XBOX"
+  },
+  {
+    "country": "N/A",
+    "tld": "XEROX"
+  },
+  {
+    "country": "N/A",
+    "tld": "XIN"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--11B4C3D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--1QQW23A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--30RR7Y"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--3BST00M"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--3DS443G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--3E0B707E"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--3PXU8K"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--42C2D9A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--45BRJ9C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--45Q11C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--4GBRIM"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--55QW42G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--55QX5D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--6FRZ82G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--6QQ986B3XL"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--80ADXHKS"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--80AO21A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--80ASEHDB"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--80ASWG"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--8Y0A063A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--90A3AC"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--90AIS"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--9DBQ2A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--9ET52U"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--B4W605FERD"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--C1AVG"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--C2BR7G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--CG4BKI"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--CLCHC0EA0B2G2A9GCD"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--CZR694B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--CZRS0T"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--CZRU2D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--D1ACJ3B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--D1ALF"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--E1A4C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--ECKVDTC9D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--EFVY88H"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--ESTV75G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FHBEI"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FIQ228C5HS"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FIQ64B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FIQS8S"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FIQZ9S"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FJQ720A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FLW351E"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FPCRJ9C3D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--FZC2C9E2C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--G2XX48C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--GECRJ9C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--H2BRJ9C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--HXT814E"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--I1B6B1A6A2E"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--IMR513N"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--IO0A7I"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--J1AEF"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--J1AMH"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--J6W193G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--JLQ61U9W7B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--KCRX77D1X4A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--KPRW13D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--KPRY57D"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--KPU716F"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--KPUT3I"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--L1ACC"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--LGBBAT1AD8J"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGB9AWBF"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBA3A3EJT"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBA3A4F16A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBAAM7A8H"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBAB2BD"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBAYH7GPA"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBB9FBPOB"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBBH1A71E"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBC0A9AZCG"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBERP4A5D4AR"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBPL2FH"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBT3DHD"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBTX2B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MGBX4CD0AB"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MIX891F"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MK1BU44C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--MXTQ1M"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NGBC5AZD"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NGBE9E0A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NODE"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NQV7F"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NQV7FS00EMA"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--NYQY26A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--O3CW4H"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--OGBPF8FL"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--P1ACF"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--P1AI"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--PBT977C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--PGBS0DH"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--PSSY2U"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--Q9JYB4C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--QCKA1PMC"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--QXAM"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--RHQV96G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--S9BRJ9C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--SES554G"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--T60B56A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--TCKWE"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--UNUP4Y"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--VERMGENSBERATER-CTB"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--VERMGENSBERATUNG-PWB"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--VHQUV"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--VUQ861B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--WGBH1C"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--WGBL6A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--XHQ521B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--XKC2AL3HYE2A"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--XKC2DL3A5EE0H"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--Y9A3AQ"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--YFRO4I67O"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--YGBI2AMMX"
+  },
+  {
+    "country": "N/A",
+    "tld": "XN--ZFR164B"
+  },
+  {
+    "country": "N/A",
+    "tld": "XPERIA"
+  },
+  {
+    "country": "N/A",
+    "tld": "XXX"
+  },
+  {
+    "country": "N/A",
+    "tld": "XYZ"
+  },
+  {
+    "country": "N/A",
+    "tld": "YACHTS"
+  },
+  {
+    "country": "N/A",
+    "tld": "YAHOO"
+  },
+  {
+    "country": "N/A",
+    "tld": "YAMAXUN"
+  },
+  {
+    "country": "N/A",
+    "tld": "YANDEX"
+  },
+  {
+    "country": "N/A",
+    "tld": "YE"
+  },
+  {
+    "country": "N/A",
+    "tld": "YODOBASHI"
+  },
+  {
+    "country": "N/A",
+    "tld": "YOGA"
+  },
+  {
+    "country": "N/A",
+    "tld": "YOKOHAMA"
+  },
+  {
+    "country": "N/A",
+    "tld": "YOUTUBE"
+  },
+  {
+    "country": "N/A",
+    "tld": "YT"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZARA"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZERO"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZIP"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZM"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZONE"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZUERICH"
+  },
+  {
+    "country": "N/A",
+    "tld": "ZW"
+  }
 ]
