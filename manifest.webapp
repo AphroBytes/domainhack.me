@@ -14,14 +14,14 @@
   },
   "developer": {
     "name": "Jan Brennenstuhl",
-    "url": "http://jan.brennenstuhl.me"
+    "url": "//jan.brennenstuhl.me"
   },
   "installs_allowed_from": ["*"],
   "locales": {
     "de": {
       "description": "The Privacy-tool for Germany",
       "developer": {
-        "url": "http://jan.brennenstuhl.me"
+        "url": "//jan.brennenstuhl.me"
       }
     }
   },

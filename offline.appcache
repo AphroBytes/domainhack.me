@@ -1,13 +1,13 @@
 CACHE MANIFEST
 # v1 - 2013-12-28
-http://www.domainhack.me/
-http://www.domainhack.me/css/main.css
-http://www.domainhack.me/js/app.js
-http://www.domainhack.me/js/controllers/main.js
-http://www.domainhack.me/js/factories/data-provider.js
-http://www.domainhack.me/js/factories/domainhack-builder.js
+//www.domainhack.me/
+//www.domainhack.me/css/main.css
+//www.domainhack.me/js/app.js
+//www.domainhack.me/js/controllers/main.js
+//www.domainhack.me/js/factories/data-provider.js
+//www.domainhack.me/js/factories/domainhack-builder.js
 
-http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css
-http://fonts.googleapis.com/css?family=Droid+Sans+Mono
+//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css
+//fonts.googleapis.com/css?family=Droid+Sans+Mono
 https://ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular.min.js
 https://ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular-route.min.js
